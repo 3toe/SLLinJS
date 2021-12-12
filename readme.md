@@ -1,0 +1,1 @@
+some exercises having to do wih the heads of singly linked lists in JS.
