@@ -1,1 +1,1 @@
-some exercises having to do wih the heads of singly linked lists in JS.
+some exercises having to do with singly linked lists in JS.

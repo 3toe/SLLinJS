@@ -40,7 +40,7 @@ class LinkedList {
          this.head=nn ;
          return this;
       }
-      // This was in the example, but i don't understand why: nn.next=this.head.
+      // This was in the example, but i don't understand why: nn.next=this.head;
       this.head = nn
       // return(this.self) was in the example, but i don't understand that, does this work?
       return(this.head);
